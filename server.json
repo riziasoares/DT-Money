@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-01-27T17:47:10.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-06-26T17:30:10.505Z"
+    },
+    {
+      "id": "3",
+      "description": "mercado",
+      "price": 1000,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-28T23:15:12.021Z"
+    },
+    {
+      "id": "de86",
+      "description": "combustível",
+      "price": 200,
+      "category": "compras",
+      "type": "outcome",
+      "createdAt": "2024-06-28T23:29:41.222Z"
+    },
+    {
+      "id": "7de0",
+      "description": "aaaa",
+      "price": 1222,
+      "category": "x",
+      "type": "income",
+      "createdAt": "2024-06-28T23:56:30.866Z"
+    },
+    {
+      "id": "047e",
+      "description": "bbbb",
+      "price": 2300,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2024-06-29T00:11:38.922Z"
+    },
+    {
+      "id": "7747",
+      "description": "ccc",
+      "price": 12,
+      "category": "ccc",
+      "type": "outcome",
+      "createdAt": "2024-06-29T00:17:27.190Z"
+    },
+    {
+      "id": "e6e5",
+      "description": "iogurt",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-29T00:41:49.146Z"
+    }
+  ]
+}
